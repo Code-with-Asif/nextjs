@@ -1,0 +1,29 @@
+.container{
+    background-image: url(http://s1.picswalls.com/wallpapers/2016/03/29/beautiful-nature-high-definition_042323787_304.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.content{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.content button{
+    padding: 5px 10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+
+}
+.btns{
+    display: flex;
+    margin-top: 10px;
+}
+.btns button:last-child{margin-left: 20px;}
