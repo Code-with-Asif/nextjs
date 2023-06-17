@@ -26,4 +26,4 @@
     display: flex;
     margin-top: 10px;
 }
-.btns button:last-child{margin-left: 20px;}
+.btns button{margin:  0px 20px;}
