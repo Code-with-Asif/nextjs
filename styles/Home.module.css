@@ -26,4 +26,8 @@
     display: flex;
     margin-top: 10px;
 }
-.btns button{margin:  0px 20px;}
+.btns button{margin:  0px 20px;
+padding: 10px;
+font-size: 1.3rem;
+background-color: rgb(25, 125, 91 );
+color: #fff;}
